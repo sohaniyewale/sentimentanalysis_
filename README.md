@@ -8,3 +8,5 @@ This project performs sentiment analysis on live Twitter data using the FinBERT 
 - Analyzes sentiment using the FinBERT model 
 - Displays tweet details with sentiment score
 - Outputs a summary of overall sentiment distribution
+
+ get your bearer token by logging into twitter developer portal
